@@ -2326,16 +2326,16 @@
       (reference "U901") (unit 1) (value "L78L05_TO92") (footprint "ao_tht:TO-92_Inline_Wide")
     )
     (path "/cb7e7ca4-1a75-4992-9aba-d7df48630a9d/2b33c914-584d-4b95-9a3b-52922012b386"
-      (reference "V101") (unit 1) (value "32SR3 OR VTL5C3") (footprint "OptoDevice:PerkinElmer_VTL5C")
+      (reference "V101") (unit 1) (value "32SR3 OR VTL5C3") (footprint "ao_tht:Vactrol_VTL5C")
     )
     (path "/757cdb0d-1f9d-4951-b906-b680c7b834f3/45499d4a-509b-4f04-8423-72021adc95c6"
       (reference "VR1") (unit 1) (value "10k") (footprint "ao_tht:Potentiometer_Bourns_3362P_Vertical_screw_centered")
     )
     (path "/cb7e7ca4-1a75-4992-9aba-d7df48630a9d/445982fd-5860-4745-9700-ebcd1000b4bf"
-      (reference "X101") (unit 1) (value "RCA") (footprint "springreverb:RCJ-02")
+      (reference "X101") (unit 1) (value "RCA") (footprint "springreverb:RCJ-023 white")
     )
     (path "/cb7e7ca4-1a75-4992-9aba-d7df48630a9d/ac253d5f-2f38-4503-a395-2a8d25f3f0bf"
-      (reference "X102") (unit 1) (value "RCA") (footprint "springreverb:RCJ-02")
+      (reference "X102") (unit 1) (value "RCA") (footprint "springreverb:RCJ-022 red")
     )
     (path "/cb7e7ca4-1a75-4992-9aba-d7df48630a9d/dd0ed6e0-e73f-485c-b4aa-f1486a23b75f"
       (reference "Z$102") (unit 1) (value "BTDR-2H") (footprint "springreverb:BTDR-2H")
