@@ -2125,10 +2125,10 @@
       (reference "JP2") (unit 1) (value "Conn_01x06") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical")
     )
     (path "/cb7e7ca4-1a75-4992-9aba-d7df48630a9d/d7efc8aa-fdd1-4e93-afc9-299288c5353d"
-      (reference "JP101") (unit 1) (value "Conn_01x04") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
+      (reference "JP101") (unit 1) (value "Conn_01x04") (footprint "Connector_Molex:Molex_KK-254_AE-6410-04A_1x04_P2.54mm_Vertical")
     )
     (path "/cb7e7ca4-1a75-4992-9aba-d7df48630a9d/df492e6b-3ac7-43a2-91ff-f46ac54a6d49"
-      (reference "JP102") (unit 1) (value "Conn_01x03") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
+      (reference "JP102") (unit 1) (value "Conn_01x03") (footprint "ao_tht:Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical")
     )
     (path "/8a471e55-590a-4f63-adf2-4f94ec7a0af6"
       (reference "JP104") (unit 1) (value "Conn_01x06") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical")
