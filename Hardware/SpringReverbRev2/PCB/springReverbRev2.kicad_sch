@@ -1445,7 +1445,7 @@
     (uuid a3231254-9a06-4749-9f8c-d0e0a9e2b786)
     (property "Reference" "J1" (id 0) (at 129.54 66.1502 0))
     (property "Value" "Conn_01x08" (id 1) (at 129.54 68.6871 0))
-    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x09_P2.54mm_Vertical" (id 2) (at 129.54 81.28 0)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical" (id 2) (at 129.54 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 129.54 81.28 0)
@@ -2002,10 +2002,10 @@
       (reference "#Z$901") (unit 1) (value "UP_PHASE_SPIKE") (footprint "")
     )
     (path "/cb7e7ca4-1a75-4992-9aba-d7df48630a9d/2a64b8ca-30ae-497f-8920-bdcfda6b245c"
-      (reference "C1") (unit 1) (value "10uf") (footprint "ao_tht:CP_Radial_D6.3mm_P2.50mm")
+      (reference "C1") (unit 1) (value "10uF") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
     )
     (path "/cb7e7ca4-1a75-4992-9aba-d7df48630a9d/292c0221-0e8e-434d-bc93-686854d7557e"
-      (reference "C2") (unit 1) (value "10uf") (footprint "ao_tht:CP_Radial_D6.3mm_P2.50mm")
+      (reference "C2") (unit 1) (value "10uF") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
     )
     (path "/cb7e7ca4-1a75-4992-9aba-d7df48630a9d/58a249a3-3637-43bb-891c-d8fb3aea2eb1"
       (reference "C3") (unit 1) (value "33nF") (footprint "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2")
@@ -2017,13 +2017,13 @@
       (reference "C5") (unit 1) (value "22pF") (footprint "ao_tht:C_Disc_D5.0mm_W2.5mm_P5.00mm")
     )
     (path "/757cdb0d-1f9d-4951-b906-b680c7b834f3/a4ef3478-d779-4ed7-919b-261c438a0472"
-      (reference "C6") (unit 1) (value "100n") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
+      (reference "C6") (unit 1) (value "100nF") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
     )
     (path "/757cdb0d-1f9d-4951-b906-b680c7b834f3/6f296ea0-4d2f-46eb-b08c-bf8505fb155a"
-      (reference "C7") (unit 1) (value "100n") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
+      (reference "C7") (unit 1) (value "100nF") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
     )
     (path "/cb7e7ca4-1a75-4992-9aba-d7df48630a9d/b44557fd-b109-46e6-9c47-7898fc72d72b"
-      (reference "C101") (unit 1) (value "10uF") (footprint "ao_tht:CP_Radial_D6.3mm_P2.50mm")
+      (reference "C101") (unit 1) (value "10uF") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
     )
     (path "/a1f902c6-fb29-4830-82ac-958ceff67f3f"
       (reference "C102") (unit 1) (value "10uF") (footprint "ao_tht:CP_Radial_D6.3mm_P2.50mm")
@@ -2032,37 +2032,37 @@
       (reference "C103") (unit 1) (value "10uF") (footprint "ao_tht:CP_Radial_D6.3mm_P2.50mm")
     )
     (path "/cb7e7ca4-1a75-4992-9aba-d7df48630a9d/abdccd32-4761-4905-9e3c-5822fd231b2c"
-      (reference "C104") (unit 1) (value "100n") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
+      (reference "C104") (unit 1) (value "100nF") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
     )
     (path "/cb7e7ca4-1a75-4992-9aba-d7df48630a9d/ba9f5381-b220-49fe-a059-7479eebb8012"
-      (reference "C105") (unit 1) (value "100n") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
+      (reference "C105") (unit 1) (value "100nF") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
     )
     (path "/cb7e7ca4-1a75-4992-9aba-d7df48630a9d/8aef1f5e-d708-477f-85a2-d00886ea3b16"
-      (reference "C106") (unit 1) (value "100n") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
+      (reference "C106") (unit 1) (value "100nF") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
     )
     (path "/cb7e7ca4-1a75-4992-9aba-d7df48630a9d/09d29258-41fc-4a62-9201-ea401458f7b0"
-      (reference "C107") (unit 1) (value "100n") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
+      (reference "C107") (unit 1) (value "100nF") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
     )
     (path "/cb7e7ca4-1a75-4992-9aba-d7df48630a9d/80481072-eb6a-4497-9b33-a8933ec1c2b4"
       (reference "C108") (unit 1) (value "3.3nF") (footprint "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2")
     )
     (path "/cb7e7ca4-1a75-4992-9aba-d7df48630a9d/dfad2ca5-0341-46cc-af98-e92db90ec536"
-      (reference "C109") (unit 1) (value "22uF") (footprint "ao_tht:CP_Radial_D6.3mm_P2.50mm")
+      (reference "C109") (unit 1) (value "22uF") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
     )
     (path "/cb7e7ca4-1a75-4992-9aba-d7df48630a9d/2affb285-bf40-45c0-bbb0-c2ccfaf4c77b"
       (reference "C110") (unit 1) (value "2.2nF") (footprint "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2")
     )
     (path "/cb7e7ca4-1a75-4992-9aba-d7df48630a9d/6f26d5ca-6fc6-459b-9376-4778608b6b29"
-      (reference "C901") (unit 1) (value "100n") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
+      (reference "C901") (unit 1) (value "100nF") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
     )
     (path "/cb7e7ca4-1a75-4992-9aba-d7df48630a9d/efaea355-f240-4fe6-abb2-f17dca6f3718"
-      (reference "C902") (unit 1) (value "100n") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
+      (reference "C902") (unit 1) (value "100nF") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
     )
     (path "/757cdb0d-1f9d-4951-b906-b680c7b834f3/5aa60a7b-85fa-4016-848e-ae69c3ab164a"
-      (reference "C903") (unit 1) (value "100n") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
+      (reference "C903") (unit 1) (value "100nF") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
     )
     (path "/757cdb0d-1f9d-4951-b906-b680c7b834f3/6f3c805a-4ac4-4a79-b4d0-0b7ae752167a"
-      (reference "C904") (unit 1) (value "100n") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
+      (reference "C904") (unit 1) (value "100nF") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
     )
     (path "/b957cd77-9ec1-4fe1-8d3b-0eb575c216ba"
       (reference "D901") (unit 1) (value "1N5817") (footprint "ao_tht:D_DO-41_SOD81_P10.16mm_Horizontal")
@@ -2119,7 +2119,7 @@
       (reference "IC103") (unit 5) (value "TL074") (footprint "ao_tht:DIP-14_W7.62mm_Socket_LongPads")
     )
     (path "/a3231254-9a06-4749-9f8c-d0e0a9e2b786"
-      (reference "J1") (unit 1) (value "Conn_01x08") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x09_P2.54mm_Vertical")
+      (reference "J1") (unit 1) (value "Conn_01x08") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical")
     )
     (path "/b2cf5a83-4806-4849-a00d-e9939041bf9b"
       (reference "J2") (unit 1) (value "Conn_01x08") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
