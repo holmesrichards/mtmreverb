@@ -1,10 +1,10 @@
 # springReverbRev2.kicad_sch BOM
 
-Wed 08 Mar 2023 08:53:34 PM EST
+Wed 08 Mar 2023 11:05:30 PM EST
 
 Generated from schematic by Eeschema 7.0.0-da2b9df05c~171~ubuntu22.04.1
 
-**Component Count:** 110
+**Component Count:** 109
 
 | Refs | Qty | Component | Description | Manufacturer | Part | Vendor | SKU |
 | ----- | --- | ---- | ----------- | ---- | ---- | ---- | ---- |
@@ -42,7 +42,6 @@ Generated from schematic by Eeschema 7.0.0-da2b9df05c~171~ubuntu22.04.1
 | R110 | 1 | 470R OR 47k | Resistor |  |  | Tayda |  |
 | RV901–903, RV905 | 4 | B50k | Potentiometer |  |  | Tayda |  |
 | RV904 | 1 | B10k | Potentiometer |  |  | Tayda |  |
-| SJ101 | 1 | SolderJumper | Solder Jumper, 2-pole, open |  |  |  |  |
 | SV101 | 1 | Synth_power_2x5 | Pin header 2.54 mm 2x5 |  |  | Tayda | A-2939 |
 | SW901 | 1 | SW_SPDT_MSM | Switch, single pole double throw, center OFF position |  |  | Tayda | A-3187 |
 | U1, U2 | 2 | TL072 | Dual operational amplifier, DIP-8 |  |  | Tayda | A-037 |
@@ -61,4 +60,4 @@ Generated from schematic by Eeschema 7.0.0-da2b9df05c~171~ubuntu22.04.1
 | ZSC901–904 | 4 | Screw | M3 6 mm screw |  |  |  |  |
 | ZSP901, ZSP902 | 2 | Spacer | M3 10 mm FF spacer |  |  |  |  |
 | ZWA901, ZWA902 | 2 | Washer | M3 washer |  |  |  |  |
-    
+
