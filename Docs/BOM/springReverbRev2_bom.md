@@ -1,8 +1,8 @@
 # springReverbRev2.kicad_sch BOM
 
-Wed 08 Mar 2023 11:05:30 PM EST
+Fri 17 Mar 2023 12:15:00 PM EDT
 
-Generated from schematic by Eeschema 7.0.0-da2b9df05c~171~ubuntu22.04.1
+Generated from schematic by Eeschema 7.0.1-3b83917a11~172~ubuntu22.04.1
 
 **Component Count:** 109
 
@@ -27,7 +27,7 @@ Generated from schematic by Eeschema 7.0.0-da2b9df05c~171~ubuntu22.04.1
 | J911, J912 | 2 | 2_pin_Molex_header | KK254 Molex header |  |  | Tayda | A-804 |
 | J913, J914 | 2 | 2_pin_Molex_connector | KK254 Molex connector |  |  | Tayda | A-826 |
 | J915–917 | 3 | DIP-8 | 8 pin DIP socket |  |  |  |  |
-| J918, J919 | 2 | DIP-14 | 14 pin DIP socket |  |  |  |  |
+| J918, J919 | 2 | DIP-14 | 14 pin DIP socket |  |  | Tayda | A-004 |
 | LED1 | 1 | LED_green | Light emitting diode |  |  | Tayda | A-1553 |
 | R1, R2, R7, R16, R20 | 5 | 47k | Resistor |  |  | Tayda |  |
 | R3, R6, R104, R105 | 4 | 10k | Resistor |  |  | Tayda |  |
@@ -60,4 +60,19 @@ Generated from schematic by Eeschema 7.0.0-da2b9df05c~171~ubuntu22.04.1
 | ZSC901–904 | 4 | Screw | M3 6 mm screw |  |  |  |  |
 | ZSP901, ZSP902 | 2 | Spacer | M3 10 mm FF spacer |  |  |  |  |
 | ZWA901, ZWA902 | 2 | Washer | M3 washer |  |  |  |  |
+
+## Resistors in color band order
+|Value|Qty|Refs|
+|----|----|----|
+|10k|4|R3, R6, R104, R105|
+|100k|9|R8, R9, R12, R13, R21–23, R901, R902|
+|15k|1|R26|
+|22R|1|R107|
+|2.2k|5|R10, R18, R24, R102, R103|
+|22k|3|R25, R101, R109|
+|4.7k|1|R106|
+|47k|5|R1, R2, R7, R16, R20|
+|6.8k|2|R11, R19|
+|68k|1|R108|
+|470R OR 47k|1|R110|
 

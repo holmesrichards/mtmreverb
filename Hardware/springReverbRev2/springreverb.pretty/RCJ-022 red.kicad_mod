@@ -1,6 +1,7 @@
 (footprint "RCJ-022 red" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "RCA phono jack")
+  (attr through_hole)
   (fp_text reference "REF**" (at 5.45 -6.2) (layer "F.SilkS")
       (effects (font (size 0.8 0.8) (thickness 0.15)))
     (tstamp e7ec0628-8cbb-4290-b36d-1e6b38431435)
@@ -56,7 +57,7 @@
   (pad "S" thru_hole circle (at 0 0) (size 3 3) (drill 2) (layers "*.Cu" "*.Mask") (tstamp 6624ac58-4a39-47e9-8aa1-dcebf378d573))
   (pad "S" thru_hole circle (at 10.3 0) (size 3 3) (drill 2) (layers "*.Cu" "*.Mask") (tstamp 711660eb-f51d-4ef7-be22-9d07ba398c63))
   (pad "T" thru_hole circle (at 5.15 -1.7) (size 2.7 2.7) (drill 1.7) (layers "*.Cu" "*.Mask") (tstamp 0bf4ec81-dcf5-4578-8bfb-95f628729dc7))
-  (model "/home/rsholmes/Documents/Electronics/KiCad/Libraries/aoKicad/ao_tht_3d/CUI_DEVICES_RCJ-022.step"
+  (model "${KICAD_USER_3DMODEL_DIR}/AO_tht_3d/CUI_DEVICES_RCJ-022.step"
     (offset (xyz 5.12 0 -6))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 90 0))

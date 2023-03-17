@@ -1,8 +1,9 @@
 (footprint "BTDR-2H" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "Accutronics BTDR-2H http://www.accutronicsreverb.com/main/?skin=sub01_05_1.html")
+  (attr through_hole)
   (fp_text reference "Ref**" (at -14.74 -1.83) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8)) (justify right top))
+      (effects (font (size 0.8 0.8) (thickness 0.15)) (justify right top))
     (tstamp becea08b-964c-417d-a73c-bf8aae4e5fb9)
   )
   (fp_text value "BTDR-2H" (at 0 0) (layer "F.Fab") hide
@@ -57,8 +58,8 @@
     (solder_mask_margin 0.0508) (tstamp f2565b95-7720-4856-a1e1-d903a2a7d676))
   (pad "6" thru_hole circle (at -12.7 0 270) (size 1.4224 1.4224) (drill 0.8) (layers "*.Cu" "*.Mask")
     (solder_mask_margin 0.0508) (tstamp d95cbcd9-efe5-425f-82d3-6b57f17501a0))
-  (model "/home/rsholmes/Documents/Electronics/KiCad/Libraries/aoKicad/ao_tht_3d/BTDR-2H.step"
-    (offset (xyz -22.7 2.4 0))
+  (model "${KICAD_USER_3DMODEL_DIR}/AO_tht_3d/BTDR-2H.step"
+    (offset (xyz -22.7 2.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

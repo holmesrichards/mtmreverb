@@ -1,0 +1,6 @@
+{
+    "separation": [
+	["BackPCB", "annotation; ref: B901"],
+	["FrontPCB", "annotation; ref: B902"]
+	]
+}
