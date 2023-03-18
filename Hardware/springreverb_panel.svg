@@ -1254,9 +1254,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.54305265"
-     inkscape:cx="223.73521"
-     inkscape:cy="386.70284"
+     inkscape:zoom="0.76799242"
+     inkscape:cx="235.02836"
+     inkscape:cy="630.21455"
      inkscape:document-units="mm"
      inkscape:current-layer="layer16"
      showgrid="false"
@@ -1419,14 +1419,6 @@
        orientation="0.70710678,-0.70710678"
        id="guide3154"
        inkscape:locked="false" />
-    <sodipodi:guide
-       position="3.6417276,2.1417322"
-       orientation="1,0"
-       id="guide2741" />
-    <sodipodi:guide
-       position="4.2322783,2.1417312"
-       orientation="1,0"
-       id="guide2743" />
     <sodipodi:guide
        position="3.6417276,1.7885571"
        orientation="0,-1"
@@ -2749,7 +2741,7 @@
        id="path2531"
        d="m 2.1496064,8.5472441 h 0.622047 V 9.1692916 H 2.3149604 L 2.1496064,9.0118113 Z"
        style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="../../Images/springreverb_panel_holes.png"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
        inkscape:export-xdpi="999.99963"
        inkscape:export-ydpi="999.99963" />
     <circle
@@ -2757,7 +2749,10 @@
        cy="8.8582706"
        cx="2.4606297"
        id="circle2533"
-       style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <circle
        r="0.2972441"
        cy="6.6072297"
@@ -2773,13 +2768,19 @@
        inkscape:connector-curvature="0"
        id="path3254"
        d="m 3.1338582,7.5630013 h 0.622047 V 8.1850488 H 3.2992122 L 3.1338582,8.0275685 Z"
-       style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <circle
        r="0.21653543"
        cy="7.8740282"
        cx="3.4448817"
        id="circle3256"
-       style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <rect
        style="display:inline;opacity:0.495;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect6523"
@@ -2800,13 +2801,19 @@
        inkscape:connector-curvature="0"
        id="path19206"
        d="m 5.1023577,7.5629918 h 0.622047 v 0.622048 h -0.456693 l -0.165354,-0.157481 z"
-       style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <circle
        r="0.21653543"
        cy="7.8740191"
        cx="5.4133806"
        id="circle19208"
-       style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        d="m -9.7106307,11.464567 h 1.0748033 v 1.094489 l -0.261811,-10e-7 8e-7,-0.11811 h -0.5511811 v 0.11811 l -0.261812,10e-7 z"
@@ -2940,13 +2947,19 @@
        inkscape:connector-curvature="0"
        id="path4309"
        d="m 2.1496062,7.5630013 h 0.622047 V 8.1850488 H 2.3149602 L 2.1496062,8.0275685 Z"
-       style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <circle
        r="0.21653543"
        cy="7.8740282"
        cx="2.4606297"
        id="circle4312"
-       style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <rect
        style="font-variation-settings:normal;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00787402;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="rect5455"
@@ -3093,27 +3106,42 @@
        inkscape:connector-curvature="0"
        id="path3357"
        d="m 4.1181102,7.5630013 h 0.622047 V 8.1850488 H 4.2834642 L 4.1181102,8.0275685 Z"
-       style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <circle
        r="0.21653543"
        cy="7.8740282"
        cx="4.4291334"
        id="circle3359"
-       style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        inkscape:connector-curvature="0"
        id="path3361"
        d="m 5.1023577,8.5472438 h 0.622047 v 0.622048 h -0.456693 l -0.165354,-0.157481 z"
-       style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <circle
        r="0.21653543"
        cy="8.8582706"
        cx="5.4133806"
        id="circle3363"
-       style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <g
        id="g5833"
-       transform="translate(8.8582631,-2.0236218)">
+       transform="translate(8.8582631,-2.0236218)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963">
       <circle
          r="0.31496063"
          style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3129,7 +3157,10 @@
     </g>
     <g
        id="g5861"
-       transform="translate(8.858294,1.137194)">
+       transform="translate(8.858294,1.137194)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963">
       <circle
          r="0.31496063"
          style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3145,7 +3176,10 @@
     </g>
     <g
        id="g5889"
-       transform="translate(8.8582938,-0.24075877)">
+       transform="translate(8.8582938,-0.24075877)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963">
       <circle
          r="0.31496063"
          style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3161,7 +3195,10 @@
     </g>
     <g
        id="g5915"
-       transform="translate(10.826796,-0.24075877)">
+       transform="translate(10.826796,-0.24075877)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963">
       <circle
          r="0.31496063"
          style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3177,7 +3214,10 @@
     </g>
     <g
        id="g6002"
-       transform="translate(7.9358282,4.3405506)">
+       transform="translate(7.9358282,4.3405506)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963">
       <rect
          y="2.1023629"
          x="-4.1338596"
@@ -3194,7 +3234,10 @@
     </g>
     <g
        id="g3235"
-       transform="translate(10.826796,-2.0124122)">
+       transform="translate(10.826796,-2.0124122)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963">
       <circle
          r="0.31496063"
          style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3213,8 +3256,7 @@
      inkscape:groupmode="layer"
      id="layer14"
      inkscape:label="Art"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        y="1.9685049"
        x="1.9685032"
@@ -3224,7 +3266,7 @@
        style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.0104167"
        inkscape:export-xdpi="999.99963"
        inkscape:export-ydpi="999.99963"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_art.png" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -3233,7 +3275,7 @@
        style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0360783;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-xdpi="999.99963"
        inkscape:export-ydpi="999.99963"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_art.png" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png" />
     <path
        sodipodi:nodetypes="cc"
        style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0360844;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3242,7 +3284,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="999.99963"
        inkscape:export-ydpi="999.99963"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_art.png" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png" />
     <flowRoot
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.249999px;line-height:0;font-family:Limelight;-inkscape-font-specification:'Limelight, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="flowRoot3370"
@@ -3269,7 +3311,7 @@
        x="3.9337277"
        y="2.234663"
        id="text3657"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_art.png"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"
        inkscape:export-xdpi="999.99963"
        inkscape:export-ydpi="999.99963"><tspan
          sodipodi:role="line"
@@ -3294,7 +3336,7 @@
        x="3.9382374"
        y="9.7132692"
        id="text11374"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_art.png"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"
        inkscape:export-xdpi="999.99963"
        inkscape:export-ydpi="999.99963"><tspan
          sodipodi:role="line"
@@ -4266,32 +4308,50 @@
        style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0208333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
        d="M 4.9212599,5.3149607 5.1574785,5.7241064"
        id="path7570"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0208333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
        d="M 4.9212599,5.3149607 4.6850413,5.7241064"
        id="path7883"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
        d="m 2.9527574,6.6883602 0.984259,0.00455"
-       id="path25993" />
+       id="path25993"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="M 2.9527579,5.3104072 2.4606299,5.8070867 2.4606042,7.862818"
        id="path7758"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
        d="M 3.5433071,4.7244095 2.9527579,5.3104072"
        id="path8645"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <text
        xml:space="preserve"
        style="font-size:0.194445px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:0.01;stroke-linejoin:bevel;-inkscape-stroke:none;stop-color:#000000"
        x="4.9212599"
        y="5.9055109"
-       id="text3241"><tspan
+       id="text3241"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963"><tspan
          sodipodi:role="line"
          id="tspan3239"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF Bold';stroke-width:0.01"
@@ -4303,12 +4363,18 @@
        width="0.9055118"
        height="1.9291371"
        x="4.9606299"
-       y="7.4803152" />
+       y="7.4803152"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="M 3.4448814,7.8740263 2.9527555,7.3819004 2.9527574,6.6883602"
        id="path7760"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <flowRoot
        transform="matrix(0.01041667,0,0,0.01041667,-2.4632552e-6,0.590545)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -5782,7 +5848,7 @@
        r="0.27559054"
        inkscape:export-xdpi="999.99963"
        inkscape:export-ydpi="999.99963"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_art.png" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -5791,7 +5857,7 @@
        id="text2543"
        inkscape:export-xdpi="999.99963"
        inkscape:export-ydpi="999.99963"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_art.png"><tspan
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"><tspan
          sodipodi:role="line"
          id="tspan2541"
          x="2.4606295"
@@ -5805,7 +5871,7 @@
        r="0.27559054"
        inkscape:export-xdpi="999.99963"
        inkscape:export-ydpi="999.99963"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_art.png" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -5814,7 +5880,7 @@
        id="text2543-3"
        inkscape:export-xdpi="999.99963"
        inkscape:export-ydpi="999.99963"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_art.png"><tspan
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"><tspan
          sodipodi:role="line"
          id="tspan2541-6"
          x="5.4133854"
@@ -5866,7 +5932,7 @@
        r="0.27559054"
        inkscape:export-xdpi="999.99963"
        inkscape:export-ydpi="999.99963"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_art.png" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -5875,7 +5941,7 @@
        id="text19214"
        inkscape:export-xdpi="999.99963"
        inkscape:export-ydpi="999.99963"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_art.png"><tspan
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"><tspan
          sodipodi:role="line"
          id="tspan19212"
          x="4.4291334"
@@ -5949,7 +6015,7 @@
        id="text4318"
        inkscape:export-xdpi="999.99963"
        inkscape:export-ydpi="999.99963"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_art.png"><tspan
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"><tspan
          sodipodi:role="line"
          id="tspan4316"
          x="3.4448771"
@@ -5963,7 +6029,7 @@
        r="0.27559054"
        inkscape:export-xdpi="999.99963"
        inkscape:export-ydpi="999.99963"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_art.png" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -5972,7 +6038,7 @@
        id="text3369"
        inkscape:export-xdpi="999.99963"
        inkscape:export-ydpi="999.99963"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_art.png"><tspan
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"><tspan
          sodipodi:role="line"
          id="tspan3367"
          x="5.4133854"
@@ -5986,7 +6052,7 @@
        id="text3375"
        inkscape:export-xdpi="999.99963"
        inkscape:export-ydpi="999.99963"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_art.png"><tspan
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"><tspan
          sodipodi:role="line"
          id="tspan3373"
          x="2.4606295"
@@ -5997,7 +6063,10 @@
        style="font-size:0.138889px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:0.01;stroke-linejoin:bevel;-inkscape-stroke:none;stop-color:#000000"
        x="4.3262568"
        y="6.4949517"
-       id="text4391"><tspan
+       id="text4391"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963"><tspan
          sodipodi:role="line"
          id="tspan4389"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF Bold';text-align:start;text-anchor:start;stroke-width:0.01"
@@ -6008,7 +6077,10 @@
        style="font-size:0.138889px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:0.01;stroke-linejoin:bevel;-inkscape-stroke:none;stop-color:#000000"
        x="4.3262568"
        y="6.9954581"
-       id="text4442"><tspan
+       id="text4442"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963"><tspan
          sodipodi:role="line"
          id="tspan4440"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF';text-align:start;text-anchor:start;stroke-width:0.01"
@@ -6019,7 +6091,10 @@
        style="font-size:0.138889px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:0.01;stroke-linejoin:bevel;-inkscape-stroke:none;stop-color:#000000"
        x="4.3262568"
        y="6.7452049"
-       id="text4446"><tspan
+       id="text4446"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963"><tspan
          sodipodi:role="line"
          id="tspan4444"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF';text-align:start;text-anchor:start;stroke-width:0.01"
@@ -6030,36 +6105,33 @@
        style="font-size:0.194445px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:0.01;stroke-linejoin:bevel;-inkscape-stroke:none;stop-color:#000000"
        x="4.9212599"
        y="4.3700786"
-       id="text5823"><tspan
+       id="text5823"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963"><tspan
          sodipodi:role="line"
          id="tspan5821"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF Bold';stroke-width:0.01"
          x="4.9212599"
          y="4.3700786">TILT</tspan></text>
     <circle
-       r="0.17716536"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle5837"
        cx="2.9527514"
-       cy="3.5433071" />
-    <circle
-       cy="5.314961"
-       cx="2.9527555"
-       id="circle5891"
-       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       r="0.17716536" />
-    <circle
-       cy="5.314961"
-       cx="4.9212589"
-       id="circle5917"
-       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       r="0.17716536" />
+       cy="3.5433071"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963"
+       r="0.21653543" />
     <circle
        r="0.098425195"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle6024"
        cx="3.5433071"
-       cy="4.7244096" />
+       cy="4.7244096"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <circle
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle3371"
@@ -6068,7 +6140,7 @@
        r="0.27559054"
        inkscape:export-xdpi="999.99963"
        inkscape:export-ydpi="999.99963"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_art.png" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png" />
     <circle
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle4314"
@@ -6077,45 +6149,39 @@
        r="0.27559054"
        inkscape:export-xdpi="999.99963"
        inkscape:export-ydpi="999.99963"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_art.png" />
-    <circle
-       cy="6.6929131"
-       cx="2.9527557"
-       id="circle5865"
-       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       r="0.17716536" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png" />
     <path
        style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0208333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
        d="M 4.29134,6.4426618 H 4.1872624 L 3.9370093,6.692915 4.1872626,6.9431685 H 4.29134"
-       id="path9660" />
+       id="path9660"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0208333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
        d="M 4.29134,6.692915 3.9370092,6.697355"
-       id="path9662" />
-    <circle
-       r="0.17716536"
-       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle6004"
-       cx="3.9370151"
-       cy="6.6929121" />
+       id="path9662"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <circle
        r="0.078740157"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle2123"
        cx="5.5118108"
-       cy="5.31496" />
-    <circle
-       cy="5.3149595"
-       cx="4.9212594"
-       id="circle3243"
-       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       r="0.17716536" />
+       cy="5.31496"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <text
        xml:space="preserve"
        style="font-size:0.138889px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:0.01;stroke-linejoin:bevel;-inkscape-stroke:none;stop-color:#000000"
        x="5.1574802"
        y="5.8661408"
-       id="text4599"><tspan
+       id="text4599"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963"><tspan
          sodipodi:role="line"
          id="tspan4597"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF Bold';text-align:start;text-anchor:start;stroke-width:0.01"
@@ -6126,30 +6192,24 @@
        style="font-size:0.138889px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;text-anchor:end;fill:#000000;stroke-width:0.01;stroke-linejoin:bevel;-inkscape-stroke:none;stop-color:#000000"
        x="4.6850395"
        y="5.8661408"
-       id="text4603"><tspan
+       id="text4603"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963"><tspan
          sodipodi:role="line"
          id="tspan4601"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF Bold';text-align:end;text-anchor:end;stroke-width:0.01"
          x="4.6850395"
          y="5.8661408">BRICK</tspan></text>
-    <circle
-       cy="8.8582621"
-       cx="3.6417325"
-       id="circle8793"
-       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       r="0.17716536" />
-    <circle
-       cy="8.8582678"
-       cx="4.2322826"
-       id="circle9136"
-       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       r="0.17716536" />
     <text
        id="text18122"
        y="4.4881892"
        x="2.9527559"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
          y="4.4881892"
          x="2.9527559"
@@ -6158,25 +6218,103 @@
     <text
        xml:space="preserve"
        style="font-size:0.138889px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:0.01;stroke-linejoin:bevel;-inkscape-stroke:none;stop-color:#000000"
-       x="3.5585332"
-       y="9.2114429"
-       id="text2739"><tspan
+       x="3.3616779"
+       y="9.2114487"
+       id="text2739"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963"><tspan
          sodipodi:role="line"
          id="tspan2737"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF';text-align:start;text-anchor:start;stroke-width:0.01"
-         x="3.5585332"
-         y="9.2114429">TO</tspan></text>
+         x="3.3616779"
+         y="9.2114487">TO</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:0.138889px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:0.01;stroke-linejoin:bevel;-inkscape-stroke:none;stop-color:#000000"
-       x="4.2322783"
+       x="4.4291291"
        y="9.2125988"
-       id="text2749"><tspan
+       id="text2749"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963"><tspan
          sodipodi:role="line"
          id="tspan2747"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF';text-align:center;text-anchor:middle;stroke-width:0.01"
-         x="4.2322783"
+         x="4.4291291"
          y="9.2125988">FROM</tspan></text>
+    <circle
+       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle2590"
+       cx="2.9527514"
+       cy="3.5433071"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963"
+       r="0.21653543" />
+    <circle
+       style="display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle2590-1"
+       cx="4.921258"
+       cy="3.5433071"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963"
+       r="0.21653543" />
+    <circle
+       style="display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle3221"
+       cx="4.9212584"
+       cy="5.3149605"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963"
+       r="0.21653543" />
+    <circle
+       style="display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle3223"
+       cx="2.9527559"
+       cy="5.3149605"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963"
+       r="0.21653543" />
+    <circle
+       style="display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle3225"
+       cx="2.9527557"
+       cy="6.6929131"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963"
+       r="0.21653543" />
+    <circle
+       style="display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle3307"
+       cx="3.9370079"
+       cy="6.6929135"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963"
+       r="0.21653543" />
+    <circle
+       style="display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle3469"
+       cx="3.4448724"
+       cy="8.8582687"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963"
+       r="0.21653543" />
+    <circle
+       style="display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle3471"
+       cx="4.4291334"
+       cy="8.8582678"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_art.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963"
+       r="0.21653543" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -6419,25 +6557,25 @@
        cx="2.4606309"
        cy="8.8582735"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 2.4606269,8.7598481 V 8.9566986"
        id="path2553"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 2.5590519,8.8582733 h -0.19685"
        id="path2555"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <g
        id="g2461"
        style="display:inline"
@@ -6509,25 +6647,25 @@
        cx="5.4133854"
        cy="7.8740268"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 5.4133813,7.7756006 V 7.9724511"
        id="path3292"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 5.5118063,7.8740258 h -0.19685"
        id="path3294"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <g
        id="g6665"
        transform="translate(3.5433079,5.0433001)"
@@ -6622,9 +6760,9 @@
     <g
        id="g2598"
        transform="translate(1.9763781)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963">
       <circle
          style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle2104-6-0"
@@ -6651,9 +6789,9 @@
        id="g2598-9"
        transform="translate(-1.6141731)"
        style="display:inline"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963">
       <circle
          style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle2104-6-0-6"
@@ -6680,9 +6818,9 @@
        id="g2598-0"
        transform="translate(1.9763781,7.6377954)"
        style="display:inline"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963">
       <circle
          style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle2104-6-0-3"
@@ -6709,9 +6847,9 @@
        id="g2598-4"
        transform="translate(-1.6141731,7.6377951)"
        style="display:inline"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963">
       <circle
          style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle2104-6-0-4"
@@ -6808,25 +6946,25 @@
        cx="3.4448814"
        cy="7.8740263"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 3.4448773,7.7756011 v 0.19685"
        id="path19218"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 3.5433023,7.8740261 h -0.19685"
        id="path19220"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <g
        id="g3455-5"
        style="display:inline"
@@ -6969,25 +7107,25 @@
        cx="2.4606295"
        cy="7.8740263"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 2.4606253,7.7756011 v 0.19685"
        id="path4322"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 2.5590503,7.8740261 h -0.19685"
        id="path4324"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <rect
        style="font-variation-settings:normal;display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00787402;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="rect5489"
@@ -7067,53 +7205,56 @@
        cx="5.4133854"
        cy="8.8582783"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 5.4133813,8.7598526 V 8.9567031"
        id="path3379"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 5.5118063,8.8582778 h -0.19685"
        id="path3381"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <circle
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle3383"
        cx="4.4291334"
        cy="7.8740263"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 4.4291293,7.7756011 v 0.19685"
        id="path3385"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 4.5275543,7.8740261 h -0.19685"
        id="path3387"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <g
        id="g5845"
-       transform="translate(9.8425144,-1.57481)">
+       transform="translate(9.8425144,-1.57481)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963">
       <circle
          r="0.13779527"
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -7134,7 +7275,10 @@
     <g
        id="g5873"
        style="display:inline"
-       transform="translate(9.8425196,1.5748031)">
+       transform="translate(9.8425196,1.5748031)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963">
       <circle
          r="0.13779527"
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -7155,7 +7299,10 @@
     <g
        id="g5899"
        style="display:inline"
-       transform="translate(9.8425195,0.19685039)">
+       transform="translate(9.8425195,0.19685039)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963">
       <circle
          r="0.13779527"
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -7176,7 +7323,10 @@
     <g
        id="g5925"
        style="display:inline"
-       transform="translate(11.811022,0.19685039)">
+       transform="translate(11.811022,0.19685039)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963">
       <circle
          r="0.13779527"
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -7199,53 +7349,83 @@
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle6006"
        cx="3.9370151"
-       cy="6.6929121" />
+       cy="6.6929121"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 3.9370079,6.5944881 V 6.7913386"
        id="path6008"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 4.0354329,6.6929133 h -0.19685"
        id="path6010"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <circle
        r="0.098425195"
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle6026"
        cx="3.5433061"
-       cy="4.7244091" />
+       cy="4.7244091"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 3.5433071,4.6850396 v 0.07874"
        id="path6028"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 3.5826773,4.7230824 h -0.07874"
        id="path6030"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <circle
        r="0.062992126"
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle2125"
        cx="5.5118108"
-       cy="5.31496" />
+       cy="5.31496"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 5.5118069,5.2755896 v 0.07874"
        id="path2127"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 5.5511809,5.3149607 h -0.07874"
        id="path2129"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <g
        id="g3251"
        style="display:inline"
-       transform="translate(11.811022,-1.5748031)">
+       transform="translate(11.811022,-1.5748031)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963">
       <circle
          r="0.13779527"
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -7264,37 +7444,55 @@
          inkscape:connector-curvature="0" />
     </g>
     <circle
-       cy="8.8582621"
-       cx="3.6417325"
+       cy="8.8582678"
+       cx="3.4448771"
        id="circle8795"
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       r="0.13779527" />
+       r="0.13779527"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        inkscape:connector-curvature="0"
        id="path8797"
-       d="M 3.6417276,8.7598379 V 8.9566884"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       d="M 3.4448723,8.7598436 V 8.9566941"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        inkscape:connector-curvature="0"
        id="path8799"
-       d="m 3.7401526,8.8582631 h -0.19685"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       d="m 3.5432973,8.8582688 h -0.19685"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <circle
        cy="8.8582678"
-       cx="4.2322826"
+       cx="4.4291334"
        id="circle9138"
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       r="0.13779527" />
+       r="0.13779527"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        inkscape:connector-curvature="0"
        id="path9140"
-       d="M 4.2322783,8.7598436 V 8.9566941"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       d="M 4.4291291,8.7598436 V 8.9566941"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
     <path
        inkscape:connector-curvature="0"
        id="path9142"
-       d="m 4.3307033,8.8582688 h -0.19685"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       d="m 4.5275541,8.8582688 h -0.19685"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Spring Reverb/Spring Reverb Kosmo version/Images/springreverb_panel_holes.png"
+       inkscape:export-xdpi="999.99963"
+       inkscape:export-ydpi="999.99963" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8709,8 +8907,8 @@
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.0312499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <circle
-       cy="8.8582621"
-       cx="3.6417325"
+       cy="8.8582678"
+       cx="3.4448771"
        id="circle8801"
        style="vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="0.16338582" />
@@ -8718,17 +8916,17 @@
        r="0.11811048"
        style="vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle8803"
-       cx="3.6417325"
-       cy="8.8582621" />
+       cx="3.4448771"
+       cy="8.8582678" />
     <circle
        r="0.068897769"
-       cy="8.8582621"
-       cx="3.6417325"
+       cy="8.8582678"
+       cx="3.4448771"
        id="circle8805"
        style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <circle
        cy="8.8582678"
-       cx="4.2322826"
+       cx="4.4291334"
        id="circle9144"
        style="vector-effect:none;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="0.16338582" />
@@ -8736,12 +8934,12 @@
        r="0.11811048"
        style="vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle9146"
-       cx="4.2322826"
+       cx="4.4291334"
        cy="8.8582678" />
     <circle
        r="0.068897769"
        cy="8.8582678"
-       cx="4.2322826"
+       cx="4.4291334"
        id="circle9148"
        style="vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <g

@@ -55,7 +55,7 @@
       (property "Value" "C" (at 0.635 -2.54 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
-      (property "Footprint" "AO_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm" (at 0.9652 -3.81 0)
+      (property "Footprint" "" (at 0.9652 -3.81 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "Datasheet" "" (at 0 0 0)

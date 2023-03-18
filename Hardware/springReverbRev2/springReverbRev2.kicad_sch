@@ -182,7 +182,7 @@
       (property "Value" "CP" (at 0.635 -2.54 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
-      (property "Footprint" "AO_tht:CP_Radial_D6.3mm_P2.50mm" (at 0.9652 -3.81 0)
+      (property "Footprint" "" (at 0.9652 -3.81 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "Datasheet" "" (at 0 0 0)
@@ -1341,6 +1341,7 @@
       )
     )
   )
+
 
   (junction (at 113.03 161.29) (diameter 0) (color 0 0 0 0)
     (uuid 4782442c-f01a-4679-808d-af04c322fbb2)

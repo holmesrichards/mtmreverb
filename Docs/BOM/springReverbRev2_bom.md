@@ -1,6 +1,6 @@
 # springReverbRev2.kicad_sch BOM
 
-Fri 17 Mar 2023 12:15:00 PM EDT
+Fri 17 Mar 2023 10:06:28 PM EDT
 
 Generated from schematic by Eeschema 7.0.1-3b83917a11~172~ubuntu22.04.1
 

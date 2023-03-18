@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "springReverbRev2_panel")(type "KiCad")(uri "${KIPRJMOD}/springReverbRev2_panel.pretty")(options "")(descr ""))
+)
