@@ -30,7 +30,7 @@ Only very minor tweaks to the original circuit:
 
 * [Schematic](Docs/.pdf)
 * PCB layout: [front](Docs/_layout_front.pdf), [back](Docs/_layout_back.pdf)
-* [BOM](Docs/_bom.md)
+* [BOM](Docs/BOM/springReverbRev2_bom.md)
 * [Build notes](Docs/build.md)
 
 ## GitHub repository
