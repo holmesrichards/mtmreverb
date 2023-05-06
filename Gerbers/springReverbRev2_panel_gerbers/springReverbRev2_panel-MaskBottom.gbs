@@ -1,12 +1,12 @@
-G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,7.0.1-3b83917a11~172~ubuntu22.04.1*
-G04 #@! TF.CreationDate,2023-03-17T22:06:33-04:00*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,7.0.2-6a45011f42~172~ubuntu22.04.1*
+G04 #@! TF.CreationDate,2023-05-05T21:02:28-04:00*
 G04 #@! TF.ProjectId,springReverbRev2_panel,73707269-6e67-4526-9576-657262526576,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Soldermask,Bot*
 G04 #@! TF.FilePolarity,Negative*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.1-3b83917a11~172~ubuntu22.04.1) date 2023-03-17 22:06:33*
+G04 Created by KiCad (PCBNEW 7.0.2-6a45011f42~172~ubuntu22.04.1) date 2023-05-05 21:02:28*
 %MOMM*%
 %LPD*%
 G01*
@@ -99,7 +99,7 @@ X4400000Y3000000D03*
 G04 #@! TD*
 D15*
 G04 #@! TO.C,H13*
-X40000000Y130000000D03*
+X37500000Y126500000D03*
 G04 #@! TD*
 D14*
 G04 #@! TO.C,H2*
