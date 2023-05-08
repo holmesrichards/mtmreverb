@@ -14,7 +14,7 @@ Only very minor tweaks to the original circuit:
 
 # Discussion
 
-R5, the 100k to ground on input IN_2, is parallel to several other ~50k resistances to ground. This means the input impedance at IN_2 is much lower than the usual 100k. R5 only makes it even lower, and I see no reason why one would want to do that. I left the footprint for this resistor in place but marked it "OMIT?" on the silkscreen and left it out in my build.
+R5, the 100k to ground on input IN_2, is parallel to several other ~50k resistances to ground. This means the input impedance at IN_2 is much lower than the usual 100k. R5 only makes it even lower, and I see no reason why one would want to do that. I left the footprint for this resistor in place but marked it "OMIT?" on the silkscreen and left it out in my build. This resistor is not included in the BOM.
 
 # Errata
 
@@ -28,6 +28,7 @@ In the first run circuit boards the solder jumper is bridged, not open, so it sh
 * [Schematic](Docs/springReverbRev2_schematic.pdf)
 * PCB layout: [front board front side](Docs/Layout/springReverbRev2_FrontPCB/springReverbRev2_FrontPCB_front.svg), [front board back side](Docs/Layout/springReverbRev2_FrontPCB/springReverbRev2_FrontPCB_back.svg), [back board front side](Docs/Layout/springReverbRev2_BackPCB/springReverbRev2_BackPCB_front.svg), [back board back side](Docs/Layout/springReverbRev2_BackPCB/springReverbRev2_BackPCB_back.svg)
 * [BOM](Docs/BOM/springReverbRev2_bom.md)
+* [Blog post](https://analogoutputblog.wordpress.com/2023/05/06/spring-has-sprung/)
 
 ## GitHub repository
 
