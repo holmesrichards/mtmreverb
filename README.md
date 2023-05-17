@@ -18,9 +18,14 @@ R5, the 100k to ground on input IN_2, is parallel to several other ~50k resistan
 
 # Errata
 
-In the first run circuit boards the solder jumper is bridged, not open, so it should be cut if using the brick and left alone if not (contrary to what the silkscreen implies). 
+* In the v1.0 circuit boards the solder jumper is bridged, not open, so it should be cut if using the brick and left alone if not (contrary to what the silkscreen implies). 
+
+* In the v1.0 front panel the pads around the hole for the "To" phono jack make the jack contact ground. This is incorrect. Use nylon washers on both sides of the hole to isolate the jack, and make sure the hole isn't plated through. 
+
+These errors are corrected in the post-v1.0 versions.
 
 ## Current draw
+
  mA +12 V,  mA -12 V
 
 ## Documentation
