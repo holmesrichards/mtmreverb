@@ -1,6 +1,6 @@
 # Spring Reverb
 
-This is a Kosmo format adaptation of the Music Thing Modular Spring Reverb. 
+This is a Kosmo format adaptation of the [Music Thing Modular Spring Reverb](https://www.musicthing.co.uk/Spring-Reverb/). 
 
 # Circuit changes
 
