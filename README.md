@@ -27,6 +27,11 @@ These errors are corrected in the post-v1.0 versions.
 ## Current draw
 
  mA +12 V,  mA -12 V
+ 
+## Photos
+
+![Front](Images/front.JPG)
+![Back](Images/back.JPG)
 
 ## Documentation
 
