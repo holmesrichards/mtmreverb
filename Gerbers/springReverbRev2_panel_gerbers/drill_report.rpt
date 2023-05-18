@@ -1,5 +1,5 @@
 Drill report for springReverbRev2_panel.kicad_pcb
-Created on Fri May  5 21:02:28 2023
+Created on Thu May 18 09:52:10 2023
 
 Copper Layer Stackup:
     =============================================================
@@ -10,10 +10,10 @@ Copper Layer Stackup:
 Drill file 'springReverbRev2_panel.drl' contains
     plated through holes:
     =============================================================
-    T1  0.600mm  0.0236"  (112 holes)
+    T1  0.600mm  0.0236"  (104 holes)
     T2  3.200mm  0.1260"  (4 holes)  (with 4 slots)
 
-    Total plated holes count 116
+    Total plated holes count 108
 
 
 Not plated through holes are merged with plated holes
