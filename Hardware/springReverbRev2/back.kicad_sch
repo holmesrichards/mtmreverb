@@ -3914,7 +3914,7 @@
     (property "Value" "SolderJumper" (at 119.38 108.4381 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" (at 119.38 110.49 0)
+    (property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" (at 119.38 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 119.38 110.49 0)
